@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm a Senior QA Engineer with a strong passion for cybersecurity and DevOps. Throughout my career, I've worked on various projects across multiple industries, including:
+- Affiliation
+- Fintech
+- Gambling
+- Data Lake
+- SAP Commerce Cloud
+- SAP CRM
+
+I enjoy tackling complex testing challenges, improving automation processes, and ensuring software quality at scale. Always eager to learn and explore new technologies!
 <!--
 **MarekP92/MarekP92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
